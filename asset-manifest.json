@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.f467a885.css",
+    "main.js": "/portfolio-react/static/js/main.e943df2a.js",
+    "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
+    "static/media/motivational_watch.zip": "/portfolio-react/static/media/motivational_watch.0202ac6babfb9aa68ae3.zip",
+    "static/media/drums_ts.zip": "/portfolio-react/static/media/drums_ts.4203df6b071d0c1391ea.zip",
+    "static/media/motivationalWatch.png": "/portfolio-react/static/media/motivationalWatch.1d36893a4bb99657835d.png",
+    "static/media/bootstrap-icons.woff?": "/portfolio-react/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/portfolio-react/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/work_hours.zip": "/portfolio-react/static/media/work_hours.0087a13f26599b2fede6.zip",
+    "static/media/api-dictionary.png": "/portfolio-react/static/media/api-dictionary.b882a1f5d68de32a4515.png",
+    "static/media/CV_VITOR_Linkedin.pdf": "/portfolio-react/static/media/CV_VITOR_Linkedin.05025b6062426d2adefa.pdf",
+    "static/media/vitor-perfil-3x4.jpg": "/portfolio-react/static/media/vitor-perfil-3x4.e2e0c47824bd7d63ab15.jpg",
+    "static/media/drumsSounds.png": "/portfolio-react/static/media/drumsSounds.35cbfd57192b4049e608.png",
+    "static/media/workedHours.png": "/portfolio-react/static/media/workedHours.a9807b752823f1d3240f.png",
+    "static/media/pokedex.png": "/portfolio-react/static/media/pokedex.a4b1597e608938d70e0b.png",
+    "static/media/Sass-Logo.png": "/portfolio-react/static/media/Sass-Logo.ba016e703b3e2367bad1.png",
+    "static/media/api-logo.png": "/portfolio-react/static/media/api-logo.29dd5f14583577dc5420.png",
+    "static/media/tic-tac-toe.png": "/portfolio-react/static/media/tic-tac-toe.b0e38a5380f2a5ffe3d1.png",
+    "static/media/Bootstrap_logo.png": "/portfolio-react/static/media/Bootstrap_logo.04896bf17f49c7a55250.png",
+    "static/media/js-logo.png": "/portfolio-react/static/media/js-logo.266bd9fb2663dcc057b4.png",
+    "static/media/oop-logo.png": "/portfolio-react/static/media/oop-logo.51ebf8549b0a991076d6.png",
+    "static/media/dictionary.zip": "/portfolio-react/static/media/dictionary.e827b36410d0203fe2f3.zip",
+    "static/media/pokedex_ts.zip": "/portfolio-react/static/media/pokedex_ts.d443c784a7b846944947.zip",
+    "static/media/tic_tac_toe_TS.zip": "/portfolio-react/static/media/tic_tac_toe_TS.ca77464ec67cc4994212.zip",
+    "index.html": "/portfolio-react/index.html",
+    "main.f467a885.css.map": "/portfolio-react/static/css/main.f467a885.css.map",
+    "main.e943df2a.js.map": "/portfolio-react/static/js/main.e943df2a.js.map",
+    "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f467a885.css",
+    "static/js/main.e943df2a.js"
+  ]
+}
